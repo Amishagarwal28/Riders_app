@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "629373391137",
+    "project_id": "ifood-954ae",
+    "storage_bucket": "ifood-954ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629373391137:android:b147d30c97e1cbdf02ee60",
+        "android_client_info": {
+          "package_name": "com.amish.sellersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629373391137-kfmoeiprs5eg455gq5sbuo2kb62rude4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIDdHRTxrX3xGsGP_47u_EOIgcX_qYfM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629373391137-kfmoeiprs5eg455gq5sbuo2kb62rude4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629373391137:android:1dc982811466a01c02ee60",
+        "android_client_info": {
+          "package_name": "com.example.riders_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629373391137-kfmoeiprs5eg455gq5sbuo2kb62rude4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIDdHRTxrX3xGsGP_47u_EOIgcX_qYfM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629373391137-kfmoeiprs5eg455gq5sbuo2kb62rude4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
